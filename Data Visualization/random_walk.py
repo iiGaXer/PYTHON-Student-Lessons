@@ -1,4 +1,4 @@
-from random import choice #! Creates the necessary functions and enent handlers to make a random walk
+from random import choice #! Creates the necessary functions and event handlers to make a random walk
 
 #! A "random walk" is a path that has no clear direction but is determined by a series of random decisions-
 #? -each of which is left entirely to chance.

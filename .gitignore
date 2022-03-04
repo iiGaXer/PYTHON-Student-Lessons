@@ -1,0 +1,72 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Python Virtual Environment
+**/venv/
+
+# Environment variables
+local.env
+.env
+Linux-0.ssh.tgz
+
+# Django stuff:
+*.mo
+*.pot
+
+# Logs:
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+*.exe
+
+# SQLite3 database files:
+*.db
+*.sqlite3
+*.sqlite
+
+# Linux Editors
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+*.swp
+*.swo
+
+# Mac
+**/*.out.dSYM/
+*.out
+.DS_Store
+._*
+
+# CCC
+Junior.pdf
+Senior.pdf
+j1/
+j2/
+j3/
+j4/
+j5/
+s1/
+s2/
+s3/
+s4/
+s5/
+
+# USACO
+*.in
+*.out
+
+# VScode
+.vscode/
