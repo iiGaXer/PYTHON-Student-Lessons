@@ -1,0 +1,4 @@
+- Training is unfinished:
+
+    + Please fix the problem at line 22 to 24, where we cannot convert
+    -strings to floats

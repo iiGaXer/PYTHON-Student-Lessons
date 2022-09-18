@@ -1,9 +1,13 @@
-from ast import increment_lineno
-from asyncio import as_completed
-import matplotlib
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
+import scipy.stats as stats
 
-df = pd.read_csv('Data/Grade_Set_1.csv')
+# Load data
+df = pd.read_csv('M.I Learning/Supervised Learning/Data/Grade_Set.csv')
 print(df)
 
+# Simple scatter plot
+df.plot(kind='scatter', x='Hours_Studied', y='Test_Grade', title='Grade vs Hours Studied')
+print(df.corr())
+plt.show()

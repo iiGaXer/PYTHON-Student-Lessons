@@ -18,5 +18,4 @@ def num_Array():
     Random = np.random.random((3,3))
     print(Random)
 
-
 num_Array()
