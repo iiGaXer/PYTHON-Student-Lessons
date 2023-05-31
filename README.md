@@ -12,7 +12,7 @@ If you are not new and want some projects to work on, check out any folder! Ever
 
 > Website : *In progress, will be posted*
 
-> *All projects are finalized, some are left out for future programmers to work on.*
+> *All projects are finalized, some are left out for future programmers to work on - 'Hiatus.'*
 
 <pre></pre>
 
