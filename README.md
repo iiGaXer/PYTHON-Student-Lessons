@@ -1,6 +1,6 @@
 # Python Projects
 
->***A series of Py projects***
+>***A series of Py projects for PYTHONIC students***
 
 <pre></pre>
 
